@@ -9,8 +9,13 @@
 
 <p align="justify"> É a parte da óptica que interpreta a luz como uma onda eletromagnética, sendo assim ela possui frequência e comprimento de onda bem definidos. Com isso, permite a compreensão de fenômenos que não podem ser explicados pela óptica geométrica, tais como a interferência, difração, polarização. </p>
 
-##Conceitos básicos de Óptica
+## Conceitos básicos de Óptica
+
 <p align="justify"> As fontes de Luz podem ser classificadas em duas </p>
 
-**Fontes de luz Primaria:** também conhecidos como corpos luminosos, são fontes que emitem luz própria, como por exemplo: uma lâmpada elétrica, lampião, uma vela e o Sol.
-**Fontes de luz secundaria:**
+**Fontes de luz Primária:** também conhecidos como corpos luminosos, são fontes que emitem luz própria, como por exemplo: uma lâmpada elétrica, lampião, uma vela e o Sol.
+
+
+**Fontes de luz secundaria:** ao contrário das fonte primárias, elas são as que refletem a luz vinda de uma fonte de luz emissora. Por exemplo: a Lua, uma parede ou o próprio piso.
+
+<p align="justify"> 
