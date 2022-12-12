@@ -18,4 +18,13 @@
 
 **Fontes de luz secundaria:** ao contrário das fonte primárias, elas são as que refletem a luz vinda de uma fonte de luz emissora. Por exemplo: a Lua, uma parede ou o próprio piso.
 
-<p align="justify"> 
+## Formação de imagem 
+
+<p align="justify"> A grande maioria dos objetos que vemos não emite luz própria. Eles são
+vistos porque re-emitem a luz de uma fonte primaria como o sol ou uma lâmpada.
+A luz incidindo sobre a superfície, volta para o mesmo meio, sem alterar a sua
+freqüência; esse processo chamamos de reflexão da luz. Por outro lado existem
+materiais que absorvem uma pequena quantidade de radiação e emitem numa
+freqüência diferente e esse fenômeno é denominado de luminescência; você
+observa isso quando apaga a luz de seu quarto e o interruptor apresenta o brilho
+característico. </p>
