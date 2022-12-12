@@ -1,2 +1,2 @@
 # Optica-Ensino-Fisica
-Óptica e seus Conceitos Gerais
+Fotoelasticidade, um experimento de óptica no ensino de física IV 
