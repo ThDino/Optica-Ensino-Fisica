@@ -12,5 +12,5 @@
 ##Conceitos básicos de Óptica
 <p align="justify"> As fontes de Luz podem ser classificadas em duas </p>
 
-**Fontes de luz Primaria:**
+**Fontes de luz Primaria:** também conhecidos como corpos luminosos, são fontes que emitem luz própria, como por exemplo: uma lâmpada elétrica, lampião, uma vela e o Sol.
 **Fontes de luz secundaria:**
