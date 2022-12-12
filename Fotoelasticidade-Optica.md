@@ -2,6 +2,7 @@
 <p align="justify"> A óptica é a parte da física que busca compreender os fenômenos relacionados à luz. Na física clássica, a óptica pode ser divida em subáreas como: óptica geométrica, óptica física e óptica quântica. </p>
 
 ## Óptica geométrica.
+=====================
 
 <p align="justify"> A óptica geométrica os raios de luz são utilizados para ilustrar sentido e direção de propagação de luz. No nosso dia-dia, facilmente conseguimos explicar acontecimentos ópticos utilizando unicamente da óptica geométrica, como por exemplo sombras, reflexão de luz ou eclipses solares ou lunares. </p>
 
