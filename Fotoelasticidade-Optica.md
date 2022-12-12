@@ -11,5 +11,6 @@
 
 ##Conceitos básicos de Óptica
 <p align="justify"> As fontes de Luz podem ser classificadas em duas </p>
-* **Fontes de luz primaria:**
-* **Fontes de luz secundaria:**
+
+**Fontes de luz primaria:**
+**Fontes de luz secundaria:**
