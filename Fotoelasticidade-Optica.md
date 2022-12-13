@@ -33,7 +33,7 @@ de reflexão (θ′1) e de refração (θ2) estão indicados.[^1]
 
 
 **Polarização:**"Dizemos que uma onda eletromagnética é polarizada se o vetor campo elétrico está
-sempre no mesmo plano, que é chamado de plano de oscilação."[^1}
+sempre no mesmo plano, que é chamado de plano de oscilação."[^1]
 >pode ser dita que é um  processo que selecional qual deve ser a direção de oscilação do campo elétrico de uma onda eletromagnética. Para que realmente isso aconteça, essa onda deve passar por um polarizador, que eliminará todas as componentes do campo elétrico que não oscilem na direção desejada.
 
 
