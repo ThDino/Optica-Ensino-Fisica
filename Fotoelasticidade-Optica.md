@@ -13,10 +13,17 @@
 
 <p align="justify"> As fontes de Luz podem ser classificadas em duas </p>
 
-**Fontes de luz Primária:** também conhecidos como corpos luminosos, são fontes que emitem luz própria, como por exemplo: uma lâmpada elétrica, lampião, uma vela e o Sol.
+* **Fontes de luz Primária:** também conhecidos como corpos luminosos, são fontes que emitem luz própria, como por exemplo: uma lâmpada elétrica, lampião, uma vela e o Sol.
 
 
-**Fontes de luz secundaria:** ao contrário das fonte primárias, elas são as que refletem a luz vinda de uma fonte de luz emissora. Por exemplo: a Lua, uma parede ou o próprio piso.
+* **Fontes de luz secundaria:** ao contrário das fonte primárias, elas são as que refletem a luz vinda de uma fonte de luz emissora. Por exemplo: a Lua, uma parede ou o próprio piso.
+
+**Transmissão:** é o processo em que a luz atravessa um objeto translúcido ou transparente. Quando essa luz é transmitidade através desse objeto, sua velocidade pode mudar, assim como a sua direção, caracterizando uma refração.
+
+**Reflexão:** Ocorre quando a luz incide em um determinado objeto refletor e retorna para o seu local de propagação original.
+
+**Refração:** É caracterizada pela passagem da luz através de dois meios de índices de refração. Onde a luz atravessas com diferentes refringências, mudando sua velocidade de propagação e fazendo com que possa ocorrer desvios laterais em sua trajetória.
+
 
 ## Formação de imagem 
 
