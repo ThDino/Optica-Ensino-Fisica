@@ -25,6 +25,9 @@
 **Refração:** É caracterizada pela passagem da luz através de dois meios de índices de refração. Onde a luz atravessas com diferentes refringências, mudando sua velocidade de propagação e fazendo com que possa ocorrer desvios laterais em sua trajetória.
 
 
+
+
+ 
 ## Formação de imagem 
 
 <p align="justify"> A grande maioria dos objetos que vemos não emite luz própria. Eles são
