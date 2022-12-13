@@ -24,7 +24,12 @@
 
 **Refração:** É caracterizada pela passagem da luz através de dois meios de índices de refração. Onde a luz atravessas com diferentes refringências, mudando sua velocidade de propagação e fazendo com que possa ocorrer desvios laterais em sua trajetória.
 
+![Captura de tela 2022-12-12 222828](https://user-images.githubusercontent.com/118854181/207203697-3ed71d93-b657-4e0b-9db0-1f3b49a2f214.png)
 
+**(a)** Fotografia que mostra a reflexão e a refração de um feixe de luz incidente em uma
+superfície de água horizontal. 
+**(b)** Uma representação de (a) usando raios. Os ângulos de incidência (θ1),
+de reflexão (θ′1) e de refração (θ2) estão indicados.[^1]
 
 
  
@@ -38,3 +43,5 @@ materiais que absorvem uma pequena quantidade de radiação e emitem numa
 freqüência diferente e esse fenômeno é denominado de luminescência; você
 observa isso quando apaga a luz de seu quarto e o interruptor apresenta o brilho
 característico. </p>
+
+[^1]: HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de física, volume 4 : óptica e física moderna . Grupo Gen-LTC, 2000.
